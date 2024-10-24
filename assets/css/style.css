@@ -1,0 +1,44 @@
+
+html {font-size: 100%;}
+
+.contenedor { width: 85%;
+            height: auto;
+            }
+
+.centrado { margin: 0 auto;}
+
+
+
+header { width: 100%;
+        min-height: 15rem;
+        background-color: black;}
+
+nav {min-height: 6rem;
+    background-color: rgb(255, 123, 0);}
+
+.carrusel {min-height: 25rem;
+           background-color: pink;
+           background-image: url(../../Documentos/proyecto\ 2/.carrusel);
+           background-size: 80%;
+           display: flex;
+           justify-content: center;
+           align-items: center;}
+
+.carrusel h1 {color: azure;
+             font-size: 2.4rem;}
+           
+
+.content {min-height: 40rem;
+         background-color: brown;
+         display: flex;}
+
+main {width: 60%;
+     min-height: 40rem;
+     background-color: rgb(255, 123, 0);}
+
+aside { width: 40%;
+        min-height: 40rem;
+        background-color: chartreuse;}
+
+footer {min-height: 12rem;
+        background-color: black;}
