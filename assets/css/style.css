@@ -18,7 +18,7 @@ nav {min-height: 6rem;
 
 .carrusel {min-height: 25rem;
            background-color: pink;
-           background-image: url(../../Documentos/proyecto\ 2/.carrusel);
+           background-image: url(../../imagen/maqueta.webp);
            background-size: 80%;
            display: flex;
            justify-content: center;
